@@ -1,0 +1,1 @@
+Giuseppe is a Python developer with experience in Flask, NLP, and containerized deployments using Docker. Interested in backend systems and data pipelines.
