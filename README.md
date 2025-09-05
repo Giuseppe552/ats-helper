@@ -47,6 +47,16 @@ Outputs a relevance report with:
 
 ---
 
+<p align="center">
+  <img src="docs/demo/cli_demo.png" alt="CLI Demo" width="80%">
+</p>
+
+> ⚡️ One-liner demo:
+
+```bash
+bash -c 'git clone https://github.com/Giuseppe552/ats-helper.git && cd ats-helper && python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && python main.py --cv sample_data/resume_giuseppe.txt --job sample_data/jd_software_engineer.txt'
+
+
 ## 📁 Folder Structure
 
 ```
